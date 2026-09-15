@@ -12,8 +12,11 @@ A calculadora permite que o usuário escolha uma operação matemática por meio
 
 # Operações disponíveis
 Soma
+
 Subtração
+
 Multiplicação
+
 Divisão
 
 # Autor
