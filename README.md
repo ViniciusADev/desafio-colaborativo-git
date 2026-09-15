@@ -29,7 +29,7 @@ A calculadora permite que o usuário escolha uma operação matemática por meio
 A calculadora funciona por meio de um menu interativo, no qual o usuário seleciona a operação que deseja realizar e informa os valores necessários.
 
 ### Exemplo
-'''text
+
 ==========================
       CALCULADORA
 ==========================
@@ -48,7 +48,7 @@ Digite o segundo número: 5
 Resultado: 15
 '''
 
-# Integrantes
+## Integrantes
 - Emanuely
 - Pedro
 - Vinicus
