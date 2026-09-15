@@ -21,6 +21,9 @@ Divisão
 
 # Autor
 Emanuely
+
 Pedro
+
 Vinicius
+
 Victor Rocha da Silva
