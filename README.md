@@ -6,6 +6,20 @@ Este projeto foi desenvolvido como parte das atividades da disciplina Design Pro
 
 Durante o desenvolvimento, foram explorados conceitos como criação e gerenciamento de repositórios, commits, branches e colaboração entre integrantes da equipe.
 
+# Objetivos
+
+*Praticar o uso do Git para controle de versões;
+
+*Aprender a utilizar o GitHub para hospedagem e colaboração;
+
+*Desenvolver um projeto de forma colaborativa;
+
+*Praticar a criação e organização de commits;
+
+*Trabalhar com branches e integração de alterações;
+
+*Desenvolver uma aplicação simples utilizando Python.
+
 # Funcionalidades
 Para a realização do desafio, foi desenvolvida uma calculadora em Python.
 A calculadora permite que o usuário escolha uma operação matemática por meio de um menu e informe os valores necessários para realizar o cálculo.
