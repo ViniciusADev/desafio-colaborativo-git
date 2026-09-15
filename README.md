@@ -32,6 +32,26 @@ Subtração
 Multiplicação
 
 Divisão
+# Demonstração
+A calculadora funciona por meio de um menu interativo, no qual o usuário seleciona a operação que deseja realizar e informa os valores necessários.
+
+Exemplo
+==========================
+      CALCULADORA
+==========================
+
+1 - Soma
+2 - Subtração
+3 - Multiplicação
+4 - Divisão
+0 - Sair
+
+Escolha uma opção: 1
+
+Digite o primeiro número: 10
+Digite o segundo número: 5
+
+Resultado: 15
 
 # Autor
 Emanuely
