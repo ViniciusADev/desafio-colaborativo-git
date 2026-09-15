@@ -29,23 +29,22 @@ A calculadora permite que o usuário escolha uma operação matemática por meio
 A calculadora funciona por meio de um menu interativo, no qual o usuário seleciona a operação que deseja realizar e informa os valores necessários.
 
 ### Exemplo
-'''
-==========================
-      CALCULADORA
-==========================
-
-1 - Soma;
-2 - Subtração;
-3 - Multiplicação;
-4 - Divisão;
-0 - Sair,
+'''text
+===================================
+ CALCULADORA
+===================================
+1 - Soma
+2 - Subtração
+3 - Multiplicação
+4 - Divisão
+5 - Sair
 
 Escolha uma opção: 1
 
-Digite o primeiro número: 10
-Digite o segundo número: 5
+Digite o primeiro numero: 10
+Digite o segundo numero: 5
 
-Resultado: 15
+Resultado= 15
 '''
 
 ## Integrantes
