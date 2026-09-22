@@ -38,9 +38,9 @@ A calculadora permite o usuário:
 ## Demonstração
 A calculadora funciona por meio de um menu interativo, no qual o usuário seleciona a operação que deseja realizar e informa os valores necessários.
 
-### Exemplo
+### Exemplo:
 
- CALCULADORA
+======= CALCULADORA ======
 
 1 - Soma  
 2 - Subtração  
