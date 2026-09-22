@@ -30,7 +30,7 @@ while True:
             print(" O resultado da sua subtração é igual:" , resultado_sub)
 
         elif id == "3":   
-            num1 = int(input("Digite um valor para ser multiplicado de 1 até 10: "))
+            num1 = int(input("Digite um valor para ser multiplicado de 1 até 10:  "))
 
             for i in range(1,11):
                 print(f"{i} x {num1} = {i * num1}")
