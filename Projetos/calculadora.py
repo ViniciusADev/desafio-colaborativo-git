@@ -32,8 +32,8 @@ while True:
             pass
             
         elif id == "4":   
-            # Divisão (ID: 4)
-            pass
+          git 
+
 
         else:
             print("\nDigite um dos ID´s da tabela acima \n")
