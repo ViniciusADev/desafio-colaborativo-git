@@ -40,7 +40,7 @@ A calculadora funciona por meio de um menu interativo, no qual o usuário seleci
 
 ### Exemplo:
 
-======= CALCULADORA ======
+=== CALCULADORA ===
 
 1 - Soma  
 2 - Subtração  
