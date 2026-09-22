@@ -36,7 +36,12 @@ while True:
                 print(f"{i} x {num1} = {i * num1}")
             
         elif id == "4":   
-                pass
+
+          num1 =int(input ("\nDigite o primeiro número: \n"))
+          num2 =int(input ("\nDigite o segundo número: \n"))
+          resultado_div = num1 / num2
+         print("O resultado da operação e igual a" , resultado_div)
+
         else:
             print("\nDigite um dos ID´s da tabela acima \n")
             print('Caso esteja tentando acessar o menu use "m" ou "M"\n')
