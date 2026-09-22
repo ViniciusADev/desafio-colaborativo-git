@@ -1,10 +1,19 @@
-# Desafio-Colaborativo-GIT.
-Repositório desenvolvido para a disciplina Design Profissional, com o objetivo de praticar conceitos de Git e GitHub por meio do desenvolvimento colaborativo de um projeto em Python.
+# Desafio-Colaborativo-GIT
 
-## Sobre o projeto
-Este projeto foi desenvolvido como parte das atividades da disciplina Design Profissional, tendo como principal objetivo proporcionar uma experiência prática com ferramentas de versionamento de código, especialmente o Git e o GitHub.
+Repositório desenvolvido para a disciplina Design Profissional, com o objetivo de praticar conceitos de Git, GitHub e desenvolvimento colaborativo por meio da criação de uma calculadora científica.
 
-Durante o desenvolvimento, foram explorados conceitos como criação e gerenciamento de repositórios, commits, branches e colaboração entre integrantes da equipe.
+# Sobre o projeto
+
+Este projeto consiste no desenvolvimento de uma calculadora científica em Python, criada em equipe para a disciplina de Design Profissional. A aplicação possui um menu interativo que permite ao usuário escolher entre as operações matemáticas disponíveis:
+
+-Soma;
+-Subtração;
+-Multiplicação;
+-Divisão.
+
+O usuário seleciona a operação por meio de um ID, informa os valores necessários e recebe o resultado do cálculo. A aplicação também conta com opções para consultar novamente o menu e encerrar o programa.
+
+Além do desenvolvimento da calculadora, o projeto teve como objetivo colocar em prática o uso de Git e GitHub em um ambiente colaborativo. A equipe trabalhou com Issues, branches, commits e Pull Requests, incluindo revisão das alterações e resolução de conflitos de merge.
 
 ## Objetivos
 
@@ -16,8 +25,11 @@ Durante o desenvolvimento, foram explorados conceitos como criação e gerenciam
 - Desenvolver uma aplicação simples utilizando Python
 
 ## Funcionalidades
-Para a realização do desafio, foi desenvolvida uma calculadora em Python.
-A calculadora permite que o usuário escolha uma operação matemática por meio de um menu e informe os valores necessários para realizar o cálculo.
+A calculadora permite o usuário:
+1 - Escolhar uma operação matemática.
+2 - Informar dois valores.
+3 - Realizar o cálculo.
+4 - Visualizar o resultado.
 
 ### Operações disponíveis
 - Soma
@@ -36,17 +48,18 @@ A calculadora funciona por meio de um menu interativo, no qual o usuário seleci
 2 - Subtração
 3 - Multiplicação
 4 - Divisão
-5 - Sair
+0 - Para sair
 
 Escolha uma opção: 1
 
 Digite o primeiro numero: 10
 Digite o segundo numero: 5
 
-Resultado= 15
+O resultado da sua soma é igual: 15
 
 ## Integrantes
 - Emanuely
 - Pedro
 - Vinicus
 - Victor Rocha da Silva
+
