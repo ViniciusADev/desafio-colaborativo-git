@@ -12,14 +12,16 @@ while True:
         id = input('Digite o ID(Digite "0" para sair | Digite "m" ou "M" ver o menu novamente): ')
 
         if id == "0":
-            print("\nSaindo... Tchau:)\n")
+            print("\nSaindo... Tchau:\n")
             break                                                               
         elif id == "m" or id == "M": 
             print(menu)
 
         elif id == "1":   
-            # Soma (ID: 1)
-            pass
+            num1 = int(input("Digite o primeiro número: "))
+            num2 = int(input("Digite o segundo número: "))
+            resultado_soma = num1 + num2
+            print(f"O resultado da sua soma é: {resultado_soma}")
 
         elif id == "2":   
             # Subtração (ID: 2)
