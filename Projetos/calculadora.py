@@ -30,7 +30,12 @@ while True:
             pass
             
         elif id == "4":   
-          git 
+          num1 =int(input ("\nDigite o primeiro número: \n"))
+          num2 =int(input ("\nDigite o segundo número: \n"))
+          resultado_div = num1 / num2
+         print("O resultado da operação e igual a" , resultado_div)
+
+          
 
 
         else:
