@@ -30,15 +30,13 @@ while True:
             print(" O resultado da sua subtração é igual:" , resultado_sub)
 
         elif id == "3":   
-            # Multiplicação (ID: 3)
-            pass
+            num1 = int(input("Digite um valor para ser multiplicado de 1 até 10:  "))
+
+            for i in range(1,11):
+                print(f"{i} x {num1} = {i * num1}")
             
         elif id == "4":   
-          num1 = int(input("Digite um valor para ser multiplicado de 1 até 10: "))
-
-        for i in range(1,11):
-            print(f"{i} x {num1} = {i * num1}")
-
+                pass
         else:
             print("\nDigite um dos ID´s da tabela acima \n")
             print('Caso esteja tentando acessar o menu use "m" ou "M"\n')
