@@ -30,7 +30,10 @@ while True:
             pass
             
         elif id == "4":   
-            # Divisão (ID: 4)
+            num1 = int(input("\n Digite o primeiro número: \n")) 
+            num2 = int(input(" \n Digite o segundo  número: \n ")) 
+            resultado_div = num1 / num2
+            print (" O resultado da sua divisão e igual a" , resultado_div)
             pass
 
         else:
