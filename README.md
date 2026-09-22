@@ -6,10 +6,10 @@ Repositório desenvolvido para a disciplina Design Profissional, com o objetivo 
 
 Este projeto consiste no desenvolvimento de uma calculadora científica em Python, criada em equipe para a disciplina de Design Profissional. A aplicação possui um menu interativo que permite ao usuário escolher entre as operações matemáticas disponíveis:
 
-Soma, 
-Subtração,  
-Multiplicação, 
-Divisão.
+- Soma 
+- Subtração 
+- Multiplicação 
+- Divisão
 
 O usuário seleciona a operação por meio de um ID, informa os valores necessários e recebe o resultado do cálculo. A aplicação também conta com opções para consultar novamente o menu e encerrar o programa.
 
@@ -24,10 +24,10 @@ Além do desenvolvimento da calculadora, o projeto teve como objetivo colocar em
 
 ## Funcionalidades
 A calculadora permite o usuário:
-1 - Escolhar uma operação matemática.
-2 - Informar dois valores.
-3 - Realizar o cálculo.
-4 - Visualizar o resultado.
+-  Escolhar uma operação matemática.
+-  Informar dois valores.
+-  Realizar o cálculo.
+-  Visualizar o resultado.
 
 ### Operações disponíveis
 - Soma
@@ -42,15 +42,15 @@ A calculadora funciona por meio de um menu interativo, no qual o usuário seleci
 
  CALCULADORA
 
-1 - Soma
-2 - Subtração
-3 - Multiplicação
-4 - Divisão
-0 - Para sair
+1 - Soma  
+2 - Subtração  
+3 - Multiplicação  
+4 - Divisão   
+0 - Para sair   
 
 Escolha uma opção: 1
 
-Digite o primeiro numero: 10
+Digite o primeiro numero: 10  
 Digite o segundo numero: 5
 
 O resultado da sua soma é igual: 15
