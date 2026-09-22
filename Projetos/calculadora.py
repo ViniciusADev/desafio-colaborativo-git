@@ -34,8 +34,10 @@ while True:
             pass
             
         elif id == "4":   
-          git 
+          num1 = int(input("Digite um valor para ser multiplicado de 1 até 10: "))
 
+        for i in range(1,11):
+            print(f"{i} x {num1} = {i * num1}")
 
         else:
             print("\nDigite um dos ID´s da tabela acima \n")
