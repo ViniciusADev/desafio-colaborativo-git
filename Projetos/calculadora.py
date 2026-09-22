@@ -26,7 +26,6 @@ while True:
             num2 = int(input("\Digite seu segundo número: \n"))
             resultado_sub = num1 - num2
             print(" O resultado da sua subtração é igual:" , resultado_sub)
-            pass
 
         elif id == "3":   
             # Multiplicação (ID: 3)
