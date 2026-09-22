@@ -24,8 +24,10 @@ while True:
             print(f"\n O resultado da soma realizada é: {resultado_soma} \n")
 
         elif id == "2":   
-            # Subtração (ID: 2)
-            pass
+            num1 = int(input("\Digite seu primeiro número: \n"))
+            num2 = int(input("\Digite seu segundo número: \n"))
+            resultado_sub = num1 - num2
+            print(" O resultado da sua subtração é igual:" , resultado_sub)
 
         elif id == "3":   
             # Multiplicação (ID: 3)
