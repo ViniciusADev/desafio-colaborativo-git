@@ -18,10 +18,10 @@ while True:
             print(menu)
 
         elif id == "1":   
-            num1 = int(input("Digite o primeiro número: "))
-            num2 = int(input("Digite o segundo número: "))
+            num1 = int(input(f"\n Digite o primeiro número: \n "))
+            num2 = int(input(f"\n Digite o segundo número: \n "))
             resultado_soma = num1 + num2
-            print(f"O resultado da sua soma é: {resultado_soma}")
+            print(f"\n O resultado da soma realizada é: {resultado_soma} \n")
 
         elif id == "2":   
             # Subtração (ID: 2)
