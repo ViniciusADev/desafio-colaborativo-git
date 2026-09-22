@@ -6,10 +6,10 @@ Repositório desenvolvido para a disciplina Design Profissional, com o objetivo 
 
 Este projeto consiste no desenvolvimento de uma calculadora científica em Python, criada em equipe para a disciplina de Design Profissional. A aplicação possui um menu interativo que permite ao usuário escolher entre as operações matemáticas disponíveis:
 
--Soma;
--Subtração;
--Multiplicação;
--Divisão.
+Soma, 
+Subtração,  
+Multiplicação, 
+Divisão.
 
 O usuário seleciona a operação por meio de um ID, informa os valores necessários e recebe o resultado do cálculo. A aplicação também conta com opções para consultar novamente o menu e encerrar o programa.
 
@@ -18,11 +18,9 @@ Além do desenvolvimento da calculadora, o projeto teve como objetivo colocar em
 ## Objetivos
 
 - Praticar o uso do Git para controle de versões
-- Aprender a utilizar o GitHub para hospedagem e colaboração
 - Desenvolver um projeto de forma colaborativa
 - Praticar a criação e organização de commits
 - Trabalhar com branches e integração de alterações
-- Desenvolver uma aplicação simples utilizando Python
 
 ## Funcionalidades
 A calculadora permite o usuário:
