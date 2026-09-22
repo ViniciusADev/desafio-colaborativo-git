@@ -22,7 +22,10 @@ while True:
             pass
 
         elif id == "2":   
-            # Subtração (ID: 2)
+            num1 = int(input("\Digite seu primeiro número: \n"))
+            num2 = int(input("\Digite seu segundo número: \n"))
+            resultado_sub = num1 - num2
+            print(" O resultado da sua subtração é igual:" , resultado_sub)
             pass
 
         elif id == "3":   
