@@ -12,31 +12,35 @@ while True:
         id = input('Digite o ID(Digite "0" para sair | Digite "m" ou "M" ver o menu novamente): ')
 
         if id == "0":
-            print("\nSaindo... Tchau:)\n")
+            print("\nSaindo... Tchau:\n")
             break                                                               
         elif id == "m" or id == "M": 
             print(menu)
 
         elif id == "1":   
-            # Soma (ID: 1)
-            pass
+            num1 = int(input(f"\n Digite o primeiro número: \n "))
+            num2 = int(input(f"\n Digite o segundo número: \n "))
+            resultado_soma = num1 + num2
+            print(f"\n O resultado da soma realizada é: {resultado_soma} \n")
 
         elif id == "2":   
-            # Subtração (ID: 2)
-            pass
+            num1 = int(input("\Digite seu primeiro número: \n"))
+            num2 = int(input("\Digite seu segundo número: \n"))
+            resultado_sub = num1 - num2
+            print(" O resultado da sua subtração é igual:" , resultado_sub)
 
         elif id == "3":   
-            # Multiplicação (ID: 3)
-            pass
+            num1 = int(input("Digite um valor para ser multiplicado de 1 até 10:  "))
+
+            for i in range(1,11):
+                print(f"{i} x {num1} = {i * num1}")
             
         elif id == "4":   
+
           num1 =int(input ("\nDigite o primeiro número: \n"))
           num2 =int(input ("\nDigite o segundo número: \n"))
           resultado_div = num1 / num2
          print("O resultado da operação e igual a" , resultado_div)
-
-          
-
 
         else:
             print("\nDigite um dos ID´s da tabela acima \n")
